@@ -1,3 +1,19 @@
+.Menu-button{
+  float: left;
+  margin-top:0.6em;
+  margin-left:0.8em;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 1.5em;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
 .App {
   text-align: center;
 }

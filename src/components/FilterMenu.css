@@ -1,0 +1,27 @@
+.List {
+  width: "250px";
+  padding: "0px 15px 0px";
+  listStyleType: "none";
+}
+
+.Filter-text {
+	border-style: solid;,
+    padding: "5px";
+    margin: "30px 10px 10px 10px";
+    width: "100%";
+}
+
+.List-ul {
+  listStyleType: "none";
+  padding: 0;
+}
+
+.List-item {
+	marginBottom: "15px";
+}
+
+.List-button {
+	background: "transparent";
+    border: "none";
+     color: "black";
+}

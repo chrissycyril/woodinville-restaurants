@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Tipsy Cow - Woodinville",
+    "street": "14111 NE Woodinville Duvall Rd",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.tipsycowburgerbar.com/",
+    "pos": {"lat":47.7542837,"lng":-122.1506417}
+  },
+  {
+    "name": "Pasta Nova Italiano",
+    "street": "17310 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.pastanovaitaliano.com/",
+    "pos": {"lat":47.7532504,"lng":-122.1521384}
+  },
+  {
+    "name": "Woodinville Cafe",
+    "street": "14170 NE Woodinville Duvall Rd",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "http://woodinville.cafesinc.com/",
+    "pos": {"lat":47.7550321,"lng":-122.1509153}
+  },
+  {
+    "name": "Teddy's Bigger Burgers",
+    "street": "17705 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "http://www.woodinville.teddysbb.com/",
+    "pos": {"lat":47.7564206,"lng":-122.1534312}
+  },
+  {
+    "name": "Rooney's Food and Spirits",
+    "street": "117626 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://foursquare.com/v/rooneys-food--spirits/4c8ecec6daa9370423e84fb1",
+    "pos": {"lat":47.7557426,"lng":-122.151795}
+  },
+  {
+    "name": "Moeida Asian Bistro",
+    "street": "17848 Garden Way NE #104",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://foursquare.com/v/moeida-asian-bistro/4b7efc72f964a520660e30e3",
+    "pos": {"lat":47.7568678,"lng":-122.154429}
+  },
+  {
+    "name": "Wendy's",
+    "street": "13514 NE 175th St",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://locations.wendys.com/united-states/wa/woodinville/13514-ne-175th",
+    "pos": {"lat":47.7548031,"lng":-122.1584201}
+  },
+  {
+    "name": "Jersey Mike's Subs",
+    "street": "17321 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.jerseymikes.com/18022/Woodinville-WA",
+    "pos": {"lat":47.7536255,"lng":-122.1537007}
+  },
+  {
+    "name": "McDonald's",
+    "street": "17450 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.mcdonalds.com/us/en-us/location/WA/WOODINVILLE/17450-140TH-AVE-NE/5795.html",
+    "pos": {"lat":47.7528483,"lng":-122.1534473}
+  },
+  {
+    "name": "KFC",
+    "street": "17100 140th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.kfc.com/store-locator?query=98072&catering=off&buffet=off&wifi=off",
+    "pos": {"lat":47.7518375,"lng":-122.1533239}
+  },
+  {
+    "name": "Red Robin Gourmet Burgers and Brews",
+    "street": "18029 Garden Way NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072",
+    "url": "https://www.redrobin.com/",
+    "pos": {"lat":47.757727,"lng":-122.1556078}
+  }
+]
